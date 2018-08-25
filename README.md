@@ -31,7 +31,7 @@ The unused key next to right Fn is reserved for keyboard specific key. (E.g. Pn)
 Version
 -------
 
-1.0.0
+1.1.0
 
 License
 -------
